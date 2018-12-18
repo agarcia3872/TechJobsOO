@@ -31,7 +31,6 @@ namespace TechJobs.ViewModels
                 Columns.Add(enumVal);
             }
 
-
         }
     }
 }
